@@ -1,0 +1,55 @@
+Your input: aefekfwekfkmfksmdmwwkfmmkrw awdksm fsdk is not valid.
+
+The DNA sequence: AGTCAAGTTTCACCGCTATCGTAAAACGGCGCCCTCAAACCATGTCACGC is valid. 
+
+The complimentary DNA sequence of AGTCAAGTTTCACCGCTATCGTAAAACGGCGCCCTCAAACCATGTCACGC is: TCAGTTCAAAGTGGCGATAGCATTTTGCCGCGGGAGTTTGGTACAGTGCG
+
+The mRNA sequence is: UCAGUUCAAAGUGGCGAUAGCAUUUUGCCGCGGGAGUUUGGUACAGUGCG
+
+The mRNA sequence does not form a protein.
+
+The DNA sequence: AGTCCCATACCATGCCATGAGGTGGACTCCACCA is valid. 
+
+The complimentary DNA sequence of AGTCCCATACCATGCCATGAGGTGGACTCCACCA is: TCAGGGTATGGTACGGTACTCCACCTGAGGTGGT
+
+The mRNA sequence is: UCAGGGUAUGGUACGGUACUCCACCUGAGGUGGU
+
+The mRNA sequence: UCAGGGUAUGGUACGGUACUCCACCUGAGGUGGU forms a protein. 
+
+The protein codon[0] is: GUA
+The protein codon[1] is: CGG
+The protein codon[2] is: UAC
+The protein codon[3] is: UCC
+The protein codon[4] is: ACC
+
+
+The DNA sequence: AGTCCCATACCATGCCATGAGGTGGACTCCACCA is valid. 
+
+The complimentary DNA sequence of AGTCCCATACCATGCCATGAGGTGGACTCCACCA is: TCAGGGTATGGTACGGTACTCCACCTGAGGTGGT
+
+The mRNA sequence is: UCAGGGUAUGGUACGGUACUCCACCUGAGGUGGU
+
+The mRNA sequence: UCAGGGUAUGGUACGGUACUCCACCUGAGGUGGU forms a protein. 
+
+The protein codon[0] is: GUA
+The protein codon[1] is: CGG
+The protein codon[2] is: UAC
+The protein codon[3] is: UCC
+The protein codon[4] is: ACC
+
+
+The DNA sequence: AGTCCCATACCATGCCATGAGGTGGACTCCACCA is valid. 
+
+The complimentary DNA sequence of AGTCCCATACCATGCCATGAGGTGGACTCCACCA is: TCAGGGTATGGTACGGTACTCCACCTGAGGTGGT
+
+The mRNA sequence is: UCAGGGUAUGGUACGGUACUCCACCUGAGGUGGU
+
+The mRNA sequence: UCAGGGUAUGGUACGGUACUCCACCUGAGGUGGU forms a protein. 
+
+The protein codon[0] is: GUA
+The protein codon[1] is: CGG
+The protein codon[2] is: UAC
+The protein codon[3] is: UCC
+The protein codon[4] is: ACC
+
+
